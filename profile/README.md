@@ -20,8 +20,8 @@
 ## VALORES
 <p>
   A M3Corp, culturalmente, segue valores e princípios que são praticados diariamente, os quais destacamos:<br />
-   **Dedicação**: Nós sempre dedicamos nosso melhor para alcançar nossas metas e objetivos, atentos ainda aos interesses de nossos parceiros e fabricantes<br />
-  **Transparência**: Somos transparentes com todos que interagem com as pessoas e as organizações, independente do tempo/situação<br />
+  Dedicação: Nós sempre dedicamos nosso melhor para alcançar nossas metas e objetivos, atentos ainda aos interesses de nossos parceiros e fabricantes<br />
+  **Transparência** : Somos transparentes com todos que interagem com as pessoas e as organizações, independente do tempo/situação<br />
   **Responsabilidade**: Cumprimos fielmente nossos deveres e obrigações
 </p>
 
